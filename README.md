@@ -17,4 +17,4 @@ The included starter project represents a new Unity project where the following 
 - Colliders have been added to the `Coin`, `Key`, `Left_Door`, `Right_Door`, and `The_Temple` game objects, and to the `Maze` game object's child game objects.
 
 ### Notes
-This project was built for Android.
+This project was built for Android. The goal of this project was to create a maze game, traversable by waypoints, with at least 5 collectatble coins and a key to unlock a door with a sign that declares the win state and restarts the game. The main scene is the scene called Main, located at Assets > UdacityVR > Scenes.
